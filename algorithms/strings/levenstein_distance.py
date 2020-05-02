@@ -37,6 +37,8 @@ if __name__ == '__main__':
         ('python', 'python'),
         ('abc', 'dbe'),
         ('asshole', 'cunt'),
+        ('a', 'ab'),
+        ('', '')
     ]
 
     for tx, ty in tests:
